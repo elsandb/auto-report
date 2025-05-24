@@ -1,4 +1,4 @@
-# auto-report a Python package 
+# auto-report
 
 > ❗Currently under development
 
